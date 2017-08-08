@@ -3,8 +3,8 @@
 // Import a library to help create a component
 import React, { Component } from 'react';
 import { AppRegistry, View } from 'react-native';
-import Header from 'Z:/reactnative/albums/android/app/src/main/java/src/components/header'
-import AlbumList from 'Z:/reactnative/albums/android/app/src/main/java/src/components/AlbumList'
+import Header from './src/components/header'
+import AlbumList from './src/components/AlbumList'
 
 
 // Create a component
